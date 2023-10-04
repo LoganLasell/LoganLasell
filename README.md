@@ -1,8 +1,8 @@
-### Hi, I'm Logan 
-- I’m
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I'm Logan 👏🏽
+- I’m a Student at Chaminade University of Honolulu
+- I'm majoring in Computer Science 
+- I’m excited for my CS journey 🙌🏽
+- 📫 How to reach me: llasell48@gmail.com
 
 <!---
 LoganLasell/LoganLasell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
