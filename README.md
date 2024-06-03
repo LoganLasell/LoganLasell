@@ -1,5 +1,5 @@
 ### Hello, I'm Logan Lasell 👏🏽
-Computer Science major currently attending Chaminade University of Honolulu.
+-Computer Science major currently attending Chaminade University of Honolulu.
 - 📫 How to reach me: llasell48@gmail.com
 
 <!---
