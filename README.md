@@ -1,6 +1,6 @@
 ### Hello, I'm Logan Lasell 👏🏽
--Computer Science major currently attending Chaminade University of Honolulu.
-- 📫 How to reach me: llasell48@gmail.com
+-Computer Science student currently attending Chaminade University of Honolulu.
+- 📫 Contact Me: llasell48@gmail.com
 
 <!---
 LoganLasell/LoganLasell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
