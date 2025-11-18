@@ -1,5 +1,5 @@
 ### Hello, I'm Logan Lasell 👏🏽
-I am a Computer Science and Engineering student currently attending Chaminade University of Honolulu.
+I am a 4th year Computer Science and Engineering student currently attending Chaminade University of Honolulu.
 - 📫 Contact Me: llasell48@gmail.com
 - Linkedin: www.linkedin.com/in/logan-lasell-9981112ab
 
